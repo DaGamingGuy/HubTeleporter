@@ -3,5 +3,6 @@ build-by-default: true
 branches:
 - main
 #hehehhe
-projects: []
+projects: 
+  HubTeleporter
 ...
